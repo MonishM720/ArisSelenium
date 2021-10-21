@@ -8,7 +8,8 @@ public class Naukri {
 
 	public static void main(String[] args) throws InterruptedException 
 	{
-	
+		
+		//Adding all the proj to Git Hub(Local Repository).
 		System.setProperty("webdriver.chrome.driver","C://Softwares//Selenium//ChromeDriver//chromedriver.exe");
 		WebDriver myD=new ChromeDriver();
 		
